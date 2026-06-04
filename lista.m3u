@@ -2,10 +2,10 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+#EXTINF:-1 tvg-id="Canais | ABERTO" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
+#EXTINF:-1 tvg-id="Canais | ABERTO" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | ABERTO",+SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
