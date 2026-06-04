@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://epgontvhdbr.com/,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
 ############################################################################ Informações 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 
 
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
