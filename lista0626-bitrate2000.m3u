@@ -3,7 +3,7 @@
 ############################################################################ Canais Abertos 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Canais | ABERTO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD
-http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8&bitrate=2000
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8&b=2000
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura Brasil 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
