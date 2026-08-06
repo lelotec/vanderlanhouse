@@ -14,6 +14,9 @@ https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | ABERTO",+SBT
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | ABERTO",Site SBT
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786040487/ei/R3x0aquKBbWPobIP2c_bqAc/ip/2804:1b3:a480:c43f:4aa:9a72:d10b:fb32/id/ABVQXgr2LW4.8/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-8p8v-bg0dl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AZFlqhPaRCVhu28UvmYZ3Ww_gJei4tX8f7s5Cx5Bo4J-dp-QGaXAQ3_XOeXcmGrzUutxfxN1twhOZiMi/spc/KBGBcmVpTtYZy7LUaaxVsqaRoh4Iej1DeRAP5q9hjcq82ol_Sw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2791250/met/1786018887,/mh/mT/mm/44/mn/sn-8p8v-bg0dl/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1786018360/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgQ0EwrJPAqreu9rzdvBvA2B4hK78xA_zlwSq8l6qwX7oCIAb8T29mIld3tZDTJN5WDaSdkGsZc3P_faoTnT7UWHpW/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMnGkKFshsF0fUSWjzArsMX-Wb_LKTq3fx2JqDkGQj5fAiEAswcu0A40B4z958x_aUCDacHRmsiGbShmD90-3LN4FAI%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
