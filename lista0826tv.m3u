@@ -187,9 +187,6 @@ https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
 http://79.127.243.211:14623/
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Canais | FILMES E SERIES",Filmelier TV
-https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
 ############################################################################ CANAIS RUNTIME
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | RUNTIME",Runtime Ação HD
@@ -306,12 +303,6 @@ https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/itn3n6J.png" group-title="Pluto TV | FILMES",Pluto TV NetMovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Pluto TV | FILMES",Runtime
-https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Pluto TV | FILMES",Filmelier TV
-https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
 
 ############################################################################ Pluto TV | MISTÉRIOS E SOBRENATURAL 
 
